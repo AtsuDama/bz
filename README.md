@@ -1,6 +1,11 @@
 # bz
 Simple Belousov-Zhabotinsky(BZ) reaction simulator on p5.js.
 
+## Demo
+OpenProcessing
+
+https://www.openprocessing.org/sketch/555612
+
 ## Parameters
 Three parameters are controllable.
 
